@@ -1,4 +1,5 @@
 
+
 <p align="center">
     <img src="https://technologyandsociety.org/wp-content/uploads/Logo-Color-1.jpg" />
     <h2 align="center">Medicine Reminder App</h2>
@@ -41,3 +42,7 @@ if (youLiked) {
 ```
 
 -----------
+=======
+# MedicineReminder
+People will get daily notifications/messages as a remainder to take their daily dose of medicines. Customers can also edit the time and set the number of tabs they intend to have.
+
